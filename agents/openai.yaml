@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏广告创意成片总导演"
+  short_description: "从创意策略到多形式制作与投放质检的完整游戏广告生产工作流"
+  default_prompt: "使用 $game-ad-production-director 把游戏需求转化为可执行、可制作、可投放的创意成片方案。"
