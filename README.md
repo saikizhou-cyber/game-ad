@@ -1,6 +1,6 @@
 # Game Ad Production Director
 
-[简体中文：打开完整 Skill](SKILL.md) ｜ [English: Open the full Skill](SKILL.en.md)
+[简中：SKILL.md｜ [English: SKILL.en.md
 
 面向游戏买量广告的端到端创意成片工作流，覆盖创意策略、形式路由、可执行分镜、AI/真人/2D/3D/实机制作、声音、合成、投放质检与测试迭代。
 
